@@ -1,1 +1,1 @@
-# react-social-ui
+# tiktok-clone
